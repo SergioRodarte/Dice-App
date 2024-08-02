@@ -6,6 +6,6 @@ This application is a dice application, you can get random dice between 1 to 6. 
 
 <img src="README_Images/LaunchScreen.png" width="300" height="600">
 
-<img src="README_Images/DiceScreen1.png" width="400" height="800">
+<img src="README_Images/DiceScreen1.png" width="200" height="600">
 
-<img src="README_Images/DiceScreen2.png" width="400" height="800">
+<img src="README_Images/DiceScreen2.png" width="200" height="600">
